@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "df4762c5316b88d7",
+    "id": "22d5f929106d360b",
     "type": "split",
     "children": [
       {
-        "id": "5a0d22409c737e9c",
+        "id": "7fb8e0287a529c28",
         "type": "tabs",
         "children": [
           {
-            "id": "067d2d6e2dc0c530",
+            "id": "8cf3e9f5e39a8645",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MULTIVARIATE TIME SERIESIMPUTATION BY GRAPH NEURAL NETWORKS/Title, abstract, conclusion.md",
+                "file": "Literature review/Reference.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "cd21db98b92d735a",
+    "id": "b527757fecc69bc1",
     "type": "split",
     "children": [
       {
-        "id": "638803f4264deb75",
+        "id": "6ecf537d41654fb1",
         "type": "tabs",
         "children": [
           {
-            "id": "ab4e2ebf03c2b3b0",
+            "id": "94475333d919e5e1",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "aa4849d0ac966c35",
+            "id": "a99a4c8cadd78920",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "7f089e78c7ca023f",
+            "id": "a8159b3700d89040",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,20 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "0aa3c0d7b59c90c4",
+    "id": "9f7bc84a9192bb7e",
     "type": "split",
     "children": [
       {
-        "id": "f6a021d442568349",
+        "id": "97b5e6dfe743b359",
         "type": "tabs",
         "children": [
           {
-            "id": "40ac949e8905243d",
+            "id": "b2a2149af2af4921",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MULTIVARIATE TIME SERIESIMPUTATION BY GRAPH NEURAL NETWORKS/Title, abstract, conclusion.md",
+                "file": "Literature review/Reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +97,19 @@
             }
           },
           {
-            "id": "5e45f7ea5892ff9d",
+            "id": "dad88fb816978292",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MULTIVARIATE TIME SERIESIMPUTATION BY GRAPH NEURAL NETWORKS/Title, abstract, conclusion.md",
+                "file": "Literature review/Reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "731fd27302afee8f",
+            "id": "06f8780a67c2c2ef",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,24 +120,33 @@
             }
           },
           {
-            "id": "907e2902a4c32599",
+            "id": "bd6584a640429c52",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "MULTIVARIATE TIME SERIESIMPUTATION BY GRAPH NEURAL NETWORKS/Title, abstract, conclusion.md"
+                "file": "Literature review/Reference.md"
               }
             }
           },
           {
-            "id": "fdb5582331dbdc9b",
+            "id": "2ec76d6e23290444",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "0d43ad192f9fca24",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -151,41 +160,41 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "audio-recorder:开始/结束录音": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-projects:Open projects": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "ab4e2ebf03c2b3b0",
+  "active": "8cf3e9f5e39a8645",
   "lastOpenFiles": [
+    "MULTIVARIATE TIME SERIESIMPUTATION BY GRAPH NEURAL NETWORKS/Definition and notation.md",
     "MULTIVARIATE TIME SERIESIMPUTATION BY GRAPH NEURAL NETWORKS/Framework.md",
     "MULTIVARIATE TIME SERIESIMPUTATION BY GRAPH NEURAL NETWORKS/Title, abstract, conclusion.md",
-    "MULTIVARIATE TIME SERIESIMPUTATION BY GRAPH NEURAL NETWORKS/Definition and notation.md",
-    "MULTIVARIATE TIME SERIESIMPUTATION BY GRAPH NEURAL NETWORKS/Content, achivement.md",
     "watinglist/References.md",
-    "MULTIVARIATE TIME SERIESIMPUTATION BY GRAPH NEURAL NETWORKS",
-    "Pasted image 20231225094005.png",
-    "Pasted image 20231225095327.png",
-    "Summary of the ten datasets in the numerical study..md",
-    "Module/deep learning/VAE.md",
-    "Module/deep learning/GAIN.md",
-    "Deep learning versus conventional methods for missing data imputation A review and comparative study/TITLE，ABSTRCT，CONCLUSION.md",
-    "Deep learning versus conventional methods for missing data imputation A review and comparative study/CONTENT，ACHIVEMENT.md",
-    "Deep learning versus conventional methods for missing data imputation A review and comparative study/DEFINITION AND NOTATION.md",
-    "Deep learning versus conventional methods for missing data imputation A review and comparative study/FRAMEWORK.md",
-    "Module/machine lerning methods/traditional feed-forward neural network.md",
-    "Module/machine lerning methods/K-nearest neighbors.md",
-    "Module/machine lerning methods",
-    "Module/statistical/MICE.md",
-    "Module/statistical/Multiple imputation.md",
-    "Module/missing machinisms/MNAR.md",
-    "Module/missing machinisms/MAR.md",
-    "Module/missing machinisms/MCAR.md",
-    "Module/statistical/missForest.md",
-    "Module/deep learning",
-    "Module/missing machinisms",
-    "Module/statistical",
-    "Module",
-    "watinglist",
-    "Deep learning versus conventional methods for missing data imputation A review and comparative study"
+    "paper1/Pasted image 20231225095327.png",
+    "paper1/Pasted image 20231225094005.png",
+    "paper1/Literature review/Reference.md",
+    "paper1/A Survey on Graph Neural Networks for Time Series Forecasting, Classification, Imputation, and Anomaly Detection/Model reference.md",
+    "paper1/A Survey on Graph Neural Networks for Time Series Forecasting, Classification, Imputation, and Anomaly Detection/Pasted image 20231218221936.png",
+    "paper1/A Survey on Graph Neural Networks for Time Series Forecasting, Classification, Imputation, and Anomaly Detection/TITLE、ABSTRACT、CONCLUSION.md",
+    "paper1/Deep learning versus conventional methods for missing data imputation A review and comparative study/DEFINITION AND NOTATION.md",
+    "paper1/Deep learning versus conventional methods for missing data imputation A review and comparative study/CONTENT，ACHIVEMENT.md",
+    "paper1/Deep learning versus conventional methods for missing data imputation A review and comparative study/TITLE，ABSTRCT，CONCLUSION.md",
+    "paper1/Deep learning versus conventional methods for missing data imputation A review and comparative study/FRAMEWORK.md",
+    "paper1/Module/deep learning/VAE.md",
+    "paper1/Module/deep learning/GRIN.md",
+    "paper1/Module/deep learning/GAIN.md",
+    "paper1/Module/deep learning/GACN.md",
+    "paper1/Module/deep learning/Aserv.md",
+    "paper1/watinglist/References.md",
+    "paper1/MULTIVARIATE TIME SERIESIMPUTATION BY GRAPH NEURAL NETWORKS/Title, abstract, conclusion.md",
+    "paper1/MULTIVARIATE TIME SERIESIMPUTATION BY GRAPH NEURAL NETWORKS/Framework.md",
+    "paper1/MULTIVARIATE TIME SERIESIMPUTATION BY GRAPH NEURAL NETWORKS/Definition and notation.md",
+    "paper1/MULTIVARIATE TIME SERIESIMPUTATION BY GRAPH NEURAL NETWORKS/Content, achivement.md",
+    "paper1/Module/missing machinisms/MCAR.md",
+    "paper1/Module/missing machinisms/MNAR.md",
+    "paper1/Module/missing machinisms/MAR.md",
+    "paper1/Module/machine lerning methods/traditional feed-forward neural network.md",
+    "paper1/Module/machine lerning methods/K-nearest neighbors.md"
   ]
 }

@@ -1,8 +1,10 @@
 [
+  "table-editor-obsidian",
+  "oz-clear-unused-images",
+  "obsidian-excalidraw-plugin",
+  "obsidian-pandoc",
+  "obsidian-projects",
   "better-word-count",
   "calendar",
-  "obsidian-mind-map",
-  "obsidian-tasks-plugin",
-  "table-editor-obsidian",
-  "obsidian-admonition"
+  "editing-toolbar"
 ]
