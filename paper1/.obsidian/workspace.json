@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "df4762c5316b88d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a0d22409c737e9c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "067d2d6e2dc0c530",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Deep learning versus conventional methods for missing data imputation A review and comparative study/FRAMEWORK.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cd21db98b92d735a",
+    "type": "split",
+    "children": [
+      {
+        "id": "638803f4264deb75",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab4e2ebf03c2b3b0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "aa4849d0ac966c35",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7f089e78c7ca023f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0aa3c0d7b59c90c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6a021d442568349",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "40ac949e8905243d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Deep learning versus conventional methods for missing data imputation A review and comparative study/FRAMEWORK.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5e45f7ea5892ff9d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Deep learning versus conventional methods for missing data imputation A review and comparative study/FRAMEWORK.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "731fd27302afee8f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "907e2902a4c32599",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Deep learning versus conventional methods for missing data imputation A review and comparative study/FRAMEWORK.md"
+              }
+            }
+          },
+          {
+            "id": "fdb5582331dbdc9b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "audio-recorder:开始/结束录音": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "067d2d6e2dc0c530",
+  "lastOpenFiles": [
+    "Module/machine lerning methods/traditional feed-forward neural network.md",
+    "Deep learning versus conventional methods for missing data imputation A review and comparative study/FRAMEWORK.md",
+    "Module/machine lerning methods/K-nearest neighbors.md",
+    "Module/machine lerning methods",
+    "Module/statistical/MICE.md",
+    "Module/statistical/Multiple imputation.md",
+    "Deep learning versus conventional methods for missing data imputation A review and comparative study/TITLE，ABSTRCT，CONCLUSION.md",
+    "Module/missing machinisms/MNAR.md",
+    "Deep learning versus conventional methods for missing data imputation A review and comparative study/DEFINITION AND NOTATION.md",
+    "Deep learning versus conventional methods for missing data imputation A review and comparative study/CONTENT，ACHIVEMENT.md",
+    "Module/missing machinisms/MAR.md",
+    "Module/missing machinisms/MCAR.md",
+    "Module/deep learning/VAE.md",
+    "Module/deep learning/GAIN.md",
+    "Module/statistical/missForest.md",
+    "Module/deep learning",
+    "Module/missing machinisms",
+    "Module/statistical",
+    "watinglist/References.md",
+    "Module",
+    "watinglist",
+    "Deep learning versus conventional methods for missing data imputation A review and comparative study"
+  ]
+}

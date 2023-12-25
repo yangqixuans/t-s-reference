@@ -1,0 +1,1 @@
+Rubin, D. B. (1976). Inference and missing data. Biometrika, 63(3), 581–592. 
