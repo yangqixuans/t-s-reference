@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deep learning versus conventional methods for missing data imputation A review and comparative study/FRAMEWORK.md",
+                "file": "MULTIVARIATE TIME SERIESIMPUTATION BY GRAPH NEURAL NETWORKS/Title, abstract, conclusion.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deep learning versus conventional methods for missing data imputation A review and comparative study/FRAMEWORK.md",
+                "file": "MULTIVARIATE TIME SERIESIMPUTATION BY GRAPH NEURAL NETWORKS/Title, abstract, conclusion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deep learning versus conventional methods for missing data imputation A review and comparative study/FRAMEWORK.md",
+                "file": "MULTIVARIATE TIME SERIESIMPUTATION BY GRAPH NEURAL NETWORKS/Title, abstract, conclusion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deep learning versus conventional methods for missing data imputation A review and comparative study/FRAMEWORK.md"
+                "file": "MULTIVARIATE TIME SERIESIMPUTATION BY GRAPH NEURAL NETWORKS/Title, abstract, conclusion.md"
               }
             }
           },
@@ -155,27 +155,35 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "067d2d6e2dc0c530",
+  "active": "ab4e2ebf03c2b3b0",
   "lastOpenFiles": [
-    "Module/machine lerning methods/traditional feed-forward neural network.md",
+    "MULTIVARIATE TIME SERIESIMPUTATION BY GRAPH NEURAL NETWORKS/Framework.md",
+    "MULTIVARIATE TIME SERIESIMPUTATION BY GRAPH NEURAL NETWORKS/Title, abstract, conclusion.md",
+    "MULTIVARIATE TIME SERIESIMPUTATION BY GRAPH NEURAL NETWORKS/Definition and notation.md",
+    "MULTIVARIATE TIME SERIESIMPUTATION BY GRAPH NEURAL NETWORKS/Content, achivement.md",
+    "watinglist/References.md",
+    "MULTIVARIATE TIME SERIESIMPUTATION BY GRAPH NEURAL NETWORKS",
+    "Pasted image 20231225094005.png",
+    "Pasted image 20231225095327.png",
+    "Summary of the ten datasets in the numerical study..md",
+    "Module/deep learning/VAE.md",
+    "Module/deep learning/GAIN.md",
+    "Deep learning versus conventional methods for missing data imputation A review and comparative study/TITLE，ABSTRCT，CONCLUSION.md",
+    "Deep learning versus conventional methods for missing data imputation A review and comparative study/CONTENT，ACHIVEMENT.md",
+    "Deep learning versus conventional methods for missing data imputation A review and comparative study/DEFINITION AND NOTATION.md",
     "Deep learning versus conventional methods for missing data imputation A review and comparative study/FRAMEWORK.md",
+    "Module/machine lerning methods/traditional feed-forward neural network.md",
     "Module/machine lerning methods/K-nearest neighbors.md",
     "Module/machine lerning methods",
     "Module/statistical/MICE.md",
     "Module/statistical/Multiple imputation.md",
-    "Deep learning versus conventional methods for missing data imputation A review and comparative study/TITLE，ABSTRCT，CONCLUSION.md",
     "Module/missing machinisms/MNAR.md",
-    "Deep learning versus conventional methods for missing data imputation A review and comparative study/DEFINITION AND NOTATION.md",
-    "Deep learning versus conventional methods for missing data imputation A review and comparative study/CONTENT，ACHIVEMENT.md",
     "Module/missing machinisms/MAR.md",
     "Module/missing machinisms/MCAR.md",
-    "Module/deep learning/VAE.md",
-    "Module/deep learning/GAIN.md",
     "Module/statistical/missForest.md",
     "Module/deep learning",
     "Module/missing machinisms",
     "Module/statistical",
-    "watinglist/References.md",
     "Module",
     "watinglist",
     "Deep learning versus conventional methods for missing data imputation A review and comparative study"
