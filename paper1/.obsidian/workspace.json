@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7fb8e0287a529c28",
+        "id": "3790b26b6a4d2aaa",
         "type": "tabs",
         "children": [
           {
-            "id": "8cf3e9f5e39a8645",
+            "id": "c46d35b5379132ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature review/Reference.md",
+                "file": "Literature review/D/Deep learning versus conventional methods for missing data imputation A review and comparative study/DEFINITION AND NOTATION.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature review/Reference.md",
+                "file": "Literature review/D/Deep learning versus conventional methods for missing data imputation A review and comparative study/DEFINITION AND NOTATION.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,25 +97,25 @@
             }
           },
           {
-            "id": "dad88fb816978292",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Literature review/Reference.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "06f8780a67c2c2ef",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency",
+                "sortOrder": "frequencyReverse",
                 "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "dad88fb816978292",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Literature review/D/Deep learning versus conventional methods for missing data imputation A review and comparative study/DEFINITION AND NOTATION.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literature review/Reference.md"
+                "file": "Literature review/D/Deep learning versus conventional methods for missing data imputation A review and comparative study/DEFINITION AND NOTATION.md"
               }
             }
           },
@@ -150,7 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 260.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,15 +162,39 @@
       "command-palette:打开命令面板": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-projects:Open projects": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "excel:创建 Excel 文件": false,
+      "spreadsheets:New Spreadsheet": false
     }
   },
-  "active": "8cf3e9f5e39a8645",
+  "active": "c46d35b5379132ba",
   "lastOpenFiles": [
-    "MULTIVARIATE TIME SERIESIMPUTATION BY GRAPH NEURAL NETWORKS/Definition and notation.md",
-    "MULTIVARIATE TIME SERIESIMPUTATION BY GRAPH NEURAL NETWORKS/Framework.md",
-    "MULTIVARIATE TIME SERIESIMPUTATION BY GRAPH NEURAL NETWORKS/Title, abstract, conclusion.md",
+    "Literature review/D/Deep learning versus conventional methods for missing data imputation A review and comparative study/Deep learning versus conventional methods for missing data imputation A review and comparative study.md",
+    "Literature review/D/Deep learning versus conventional methods for missing data imputation A review and comparative study/CONTENT，ACHIVEMENT.md",
+    "Literature review/D/Deep learning versus conventional methods for missing data imputation A review and comparative study/DEFINITION AND NOTATION.md",
+    "Literature review/D/Deep learning versus conventional methods for missing data imputation A review and comparative study/FRAMEWORK.md",
+    "Literature review/A/A Survey on Graph Neural Networks for Time Series Forecasting, Classification, Imputation, and Anomaly Detection/A Survey on Graph Neural Networks for Time Series Forecasting, Classification, Imputation, and Anomaly Detection.md",
+    "Literature review/A/A Survey on Graph Neural Networks for Time Series Forecasting, Classification, Imputation, and Anomaly Detection/Model reference.md",
+    "Literature review/A/A Survey on Graph Neural Networks for Time Series Forecasting, Classification, Imputation, and Anomaly Detection/Pasted image 20231218221936.png",
+    "Literature review/content.md",
+    "Literature review/M/FILLING THE GAPS-MULTIVARIATE TIME SERIES IMPUTATION BY GRAPH NEURAL NETWORKS/Framework.md",
+    "Literature review/M/FILLING THE GAPS-MULTIVARIATE TIME SERIES IMPUTATION BY GRAPH NEURAL NETWORKS/FILLING THE GAPS-MULTIVARIATE TIME SERIES IMPUTATION BY GRAPH NEURAL NETWORKS.md",
+    "Literature review/M/FILLING THE GAPS-MULTIVARIATE TIME SERIES IMPUTATION BY GRAPH NEURAL NETWORKS/Definition and notation.md",
+    "Literature review/M/FILLING THE GAPS-MULTIVARIATE TIME SERIES IMPUTATION BY GRAPH NEURAL NETWORKS/Content, achivement.md",
+    "Literature review/spread.sheet",
+    "Literature review/excel.md",
+    "Literature review/Reference.md",
+    "Pasted image 20231225095327.png",
+    "Pasted image 20231225094005.png",
     "watinglist/References.md",
+    "Excel 2023-12-26 20.33.25.sheet.md",
+    "Literature review/M",
+    "Literature review/D",
+    "Literature review/A",
+    "Module/deep learning/Aserv.md",
+    "A Survey on Graph Neural Networks for Time Series Forecasting, Classification, Imputation, and Anomaly Detection.md",
+    "Excalidraw/Drawing 2023-12-26 19.38.47.excalidraw.md",
+    "Excalidraw",
     "paper1/Pasted image 20231225095327.png",
     "paper1/Pasted image 20231225094005.png",
     "paper1/Literature review/Reference.md",
@@ -180,21 +204,6 @@
     "paper1/Deep learning versus conventional methods for missing data imputation A review and comparative study/DEFINITION AND NOTATION.md",
     "paper1/Deep learning versus conventional methods for missing data imputation A review and comparative study/CONTENT，ACHIVEMENT.md",
     "paper1/Deep learning versus conventional methods for missing data imputation A review and comparative study/TITLE，ABSTRCT，CONCLUSION.md",
-    "paper1/Deep learning versus conventional methods for missing data imputation A review and comparative study/FRAMEWORK.md",
-    "paper1/Module/deep learning/VAE.md",
-    "paper1/Module/deep learning/GRIN.md",
-    "paper1/Module/deep learning/GAIN.md",
-    "paper1/Module/deep learning/GACN.md",
-    "paper1/Module/deep learning/Aserv.md",
-    "paper1/watinglist/References.md",
-    "paper1/MULTIVARIATE TIME SERIESIMPUTATION BY GRAPH NEURAL NETWORKS/Title, abstract, conclusion.md",
-    "paper1/MULTIVARIATE TIME SERIESIMPUTATION BY GRAPH NEURAL NETWORKS/Framework.md",
-    "paper1/MULTIVARIATE TIME SERIESIMPUTATION BY GRAPH NEURAL NETWORKS/Definition and notation.md",
-    "paper1/MULTIVARIATE TIME SERIESIMPUTATION BY GRAPH NEURAL NETWORKS/Content, achivement.md",
-    "paper1/Module/missing machinisms/MCAR.md",
-    "paper1/Module/missing machinisms/MNAR.md",
-    "paper1/Module/missing machinisms/MAR.md",
-    "paper1/Module/machine lerning methods/traditional feed-forward neural network.md",
-    "paper1/Module/machine lerning methods/K-nearest neighbors.md"
+    "paper1/Deep learning versus conventional methods for missing data imputation A review and comparative study/FRAMEWORK.md"
   ]
 }
