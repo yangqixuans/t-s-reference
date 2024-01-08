@@ -12,6 +12,6 @@
 2.  In-Sample Imputation and Out-of-Sample Imputation
 	+ involves filling in missing values within the given time series data
 	+ predicts missing values in disjoint sequences 
-3.  deterministic and probabilis-tic imputation.
+3.  deterministic and probabilistic imputation.
 	+ Deterministic imputation provides a single best estimate for the missing values
 	+ probabilistic imputation accounts for the uncertainty in the imputation process and provides a distribution of possible values.
